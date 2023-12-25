@@ -55,10 +55,10 @@ def drop_after_brace(input_string):
 
     return result
 
-st.header('GrooveGalaxy:headphones:')
+st.header('RythMix:headphones:')
 
 st.sidebar.markdown(":orange[App made by] :orange[-] :orange[[Pranjal Asthana](https://github.com/PranjalAsthana)]")
-st.sidebar.markdown(":orange[[Please Support GrooveGalaxy on Github](https://github.com/PranjalAsthana/GrooveGalaxy)]")
+st.sidebar.markdown(":orange[[Please Support RythMix on Github](https://github.com/PranjalAsthana/GrooveGalaxy)]")
 
 
 music = pickle.load(open('songsdata.pkl','rb'))
